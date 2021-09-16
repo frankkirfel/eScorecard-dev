@@ -488,6 +488,10 @@ div.e8d.note {
 		box-shadow: none;
 	}
 	
+	td[id^='e8d_lbl'], td[id^='e8d_tdlbl'] {
+		border: 0px solid;
+	}
+	
 	th.e8d_tbl, td[id^='e8d_tbl']  {
 		height: 1.8rem;
 	}
