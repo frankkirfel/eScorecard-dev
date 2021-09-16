@@ -170,6 +170,9 @@ select[id^='e8d_'] {
 button.e8d.button {
 	padding: 0.5rem 1rem;
 	margin: 1rem 0;
+    border: thin solid #888;
+    border-radius: 5px;
+	background: #f9f9f9 linear-gradient(to bottom, #eee, #f9f9f9, #eee) repeat scroll 0 0;
 	box-shadow: -1px -1px 2px #e0e0e0, 
 				1px 1px 2px #808080;
 }
@@ -179,6 +182,7 @@ button.e8d.button:enabled {
 }
  
 button.e8d.button:disabled {
+    border: thin solid #ddd;
 	cursor: not-allowed;
 }
  
@@ -215,7 +219,7 @@ kbd {
     padding: 0 0.5em;
     background: #f9f9f9 linear-gradient(to bottom, #eee, #f9f9f9, #eee) repeat scroll 0 0;
     border: thin solid #aaa;
-    border-radius: 2px;
+    border-radius: 3px;
     box-shadow: 1px 2px 2px #ddd;
 }
 
