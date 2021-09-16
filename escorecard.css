@@ -168,6 +168,7 @@ select[id^='e8d_'] {
 }
 
 button.e8d.button {
+	color: #333;
 	padding: 0.5rem 1rem;
 	margin: 1rem 0.1rem;
     border: thin solid #888;
@@ -182,9 +183,11 @@ button.e8d.button:enabled {
 }
  
 button.e8d.button:disabled {
+	color: #999;
     border: thin solid #ddd;
 	cursor: not-allowed;
 }
+
  
  
 h1,
