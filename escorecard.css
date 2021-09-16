@@ -132,12 +132,17 @@ article.e8d.teaser-box p {
 input[class^='e8d'] {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #fff;
 	border: 1px solid;
 	border-spacing: 0px;
 	border-color: #6b9fac;
 	border-radius: 3px;
 	box-shadow: -1px -1px 2px #e0e0e0, 
 				1px 1px 2px #808080;
+}
+
+input[class^='e8d']:disabled {
+	background-color: #eee;
 }
 
 input[id^='e8d_score'] {
@@ -158,6 +163,7 @@ input#e8d_result {
 select[id^='e8d_'] {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #fff;
 	padding: 0.1em 0;
 	border: 1px solid;
 	border-spacing: 0px;
@@ -165,6 +171,10 @@ select[id^='e8d_'] {
 	border-radius: 3px;
 	box-shadow: -1px -1px 2px #e0e0e0, 
 				1px 1px 2px #808080;
+}
+
+select[id^='e8d_']:disabled {
+	background-color: #eee;
 }
 
 button.e8d.button {
@@ -187,7 +197,6 @@ button.e8d.button:disabled {
     border: thin solid #ddd;
 	cursor: not-allowed;
 }
-
  
  
 h1,
