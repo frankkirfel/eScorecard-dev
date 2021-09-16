@@ -289,8 +289,7 @@ div#e8d_container {
 
 textarea#e8d_datainput {
 	text-align: left;
-	margin-top: 0.8rem;
-	margin-left: 0.1rem;
+	margin: 0.8rem 0;
 	width: 97%;
 	height: 8.5em;
 	border: 1px solid;
