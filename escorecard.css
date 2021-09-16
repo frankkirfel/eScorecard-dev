@@ -169,7 +169,7 @@ select[id^='e8d_'] {
 
 button.e8d.button {
 	padding: 0.5rem 1rem;
-	margin: 1rem 0;
+	margin: 1rem 0.1rem;
     border: thin solid #888;
     border-radius: 5px;
 	background: #f9f9f9 linear-gradient(to bottom, #eee, #f9f9f9, #eee) repeat scroll 0 0;
@@ -289,7 +289,7 @@ div#e8d_container {
 
 textarea#e8d_datainput {
 	text-align: left;
-	margin: 0.8rem 0;
+	margin: 0.8rem 0.1rem;
 	width: 97%;
 	height: 8.5em;
 	border: 1px solid;
