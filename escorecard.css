@@ -15,8 +15,12 @@ html {
 }
 
 div.e8d {
-	padding: 1rem 0.2rem;
+	padding: 0.5rem 0.2rem;
 	margin: 0 0;
+}
+
+p.e8d {
+	margin: 0.5em 0;
 }
 
 div.box-inner h1 {
@@ -297,7 +301,7 @@ div#e8d_container {
 	
 	box-sizing: border-box;
 	margin: 0;
-	/* padding: 0 20px; */
+	padding: 0;
 	max-width: 940px;
 }
 
@@ -357,12 +361,16 @@ div.e8d.note {
 		font-weight: bold;
 	}
 	
-	[id^='e8d_tbl'], td[class^='e8d_field'], th[id^='e8d_th_r'], td#e8d_correlation, input.e8d_score {
+	[id^='e8d_tbl'], p.e8d, td[class^='e8d_field'], th[id^='e8d_th_r'], td#e8d_correlation, input.e8d_score {
 		font-size: 1.1rem;
 	}
 
 	li.e8d {
 		line-height: 2;
+	}
+	
+	kbd.e8d {
+		font-size: 0.9rem;
 	}
 }
 
