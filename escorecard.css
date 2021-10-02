@@ -301,7 +301,7 @@ div#e8d_container {
 	
 	box-sizing: border-box;
 	margin: 0;
-	padding: 0;
+	padding: 0 0px;
 	max-width: 940px;
 }
 
@@ -347,67 +347,6 @@ svg.e8d_svg {
 
 div.e8d.note {
 	text-align: justify;
-}
-
-@media screen and (max-width: 479px) {
-	div#e8d_scorecard-container {
-		font-size: 1.1rem;
-		display: flex;
-		justify-content: center;
-	}
-	
-	td#e8d_calculatedHCPI, td#e8d_calculatedSD, input#e8d_result {
-		font-size: 1.2rem;
-		font-weight: bold;
-	}
-	
-	[id^='e8d_tbl'], p.e8d, td[class^='e8d_field'], th[id^='e8d_th_r'], td#e8d_correlation, input.e8d_score {
-		font-size: 1.1rem;
-	}
-
-	li.e8d {
-		line-height: 2;
-	}
-	
-	kbd.e8d {
-		font-size: 0.9rem;
-	}
-}
-
-@media screen and (max-width: 889px) {
-	img#e8d_underConstruction {
-		display: block;
-		margin-left: 1rem;
-		width: 42%;
-		height: 42%;
-		cursor: pointer;
-	}
-
-	div#e8d_scorecard-container {
-		display: flex;
-		justify-content: center;
-	}
-
-	div.e8d.scorecard-results {
-		clear: both;
-	}
-	
-	textarea#e8d_datainput {
-		font-size: 1.1rem;
-	}
-	
-	div.annotations {
-		font-size: 1.3rem;
-	}
-	
-	li.e8d, li.e8d a {
-		font-size: 1.1rem;
-	}
-
-	li.e8d {
-		margin: 0.3em 0 0 -0.5em;
-		line-height: 1.5;
-	}
 }
 
 @media screen and (min-width: 890px) {
@@ -457,6 +396,77 @@ div.e8d.note {
 	}
 }
 
+@media screen and (max-width: 889px) {
+	img#e8d_underConstruction {
+		display: block;
+		margin-left: 1rem;
+		width: 42%;
+		height: 42%;
+		cursor: pointer;
+	}
+	
+	div.e8d {
+		padding-top: 2rem;
+		padding-bottom: 2rem;
+	}
+
+	div#e8d_scorecard-container {
+		display: flex;
+		justify-content: center;
+	}
+
+	div.e8d.scorecard-results {
+		clear: both;
+	}
+	
+	textarea#e8d_datainput {
+		font-size: 1.1rem;
+	}
+	
+	div.annotations {
+		font-size: 1.3rem;
+	}
+	
+	ol.e8d {
+		padding-top: 0.5rem;
+		padding-inline-start: 24px;
+	}
+
+	li.e8d, li.e8d a {
+		font-size: 1.1rem;
+	}
+
+	li.e8d {
+		margin: 0.3em 0 0 -0.5em;
+		line-height: 1.5;
+	}
+}
+
+@media screen and (max-width: 479px) {
+	div.e8d {
+		padding-top: 1rem;
+		padding-bottom: 1rem;
+	}
+
+	div#e8d_scorecard-container {
+		font-size: 1.1rem;
+		display: flex;
+		justify-content: center;
+	}
+	
+	td#e8d_calculatedHCPI, td#e8d_calculatedSD, input#e8d_result {
+		font-size: 1.2rem;
+		font-weight: bold;
+	}
+	
+	[id^='e8d_tbl'], p.e8d, p.e8d a, td[class^='e8d_field'], th[id^='e8d_th_r'], td#e8d_correlation, input.e8d_score {
+		font-size: 1.1rem;
+	}
+	
+	kbd.e8d {
+		font-size: 0.9rem;
+	}
+}
 
 @media print {
 	h1,
