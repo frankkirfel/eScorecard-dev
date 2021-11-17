@@ -1,0 +1,3952 @@
+e8d_golfcourses = [
+	{
+		"name": "Golfclub Wolfsburg e. V.",
+		"shortname": "Wolfsburg, GC",
+		"clubnumber": 3364,
+		"courses": [
+			{
+				"name": "Platz 1-18",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 72,
+								"cr": 73.1,
+								"slope": 129,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 328,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 374,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 387,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 191,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 513,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 358,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 480,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 138,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 369,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 463,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 412,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 147,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 408,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 316,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 367,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 107,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 372,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 471,
+										"par": 5,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 72,
+								"cr": 70.9,
+								"slope": 131,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 344,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 369,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 171,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 493,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 445,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 138,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 350,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 438,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 147,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 316,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 348,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 107,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 328,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 72,
+								"cr": 69.0,
+								"slope": 123,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 433,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 424,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 70,
+								"cr": 67.5,
+								"slope": 119,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 416,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 391,
+										"par": 4,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "orange",
+								"par": 68,
+								"cr": 65.2,
+								"slope": 114,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 299,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 284,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 4,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 262,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 4,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "grün",
+								"par": 68,
+								"cr": 63.7,
+								"slope": 112,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 244,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 275,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 247,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 369,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 257,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 4,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 286,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 284,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 242,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 4,
+										"index": 4
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "gelb",
+								"par": 72,
+								"cr": 77.3,
+								"slope": 134,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 344,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 369,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 171,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 493,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 445,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 138,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 350,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 438,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 147,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 316,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 348,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 107,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 328,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 72,
+								"cr": 74.5,
+								"slope": 131,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 433,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 424,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 72,
+								"cr": 73.2,
+								"slope": 128,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 416,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 391,
+										"par": 5,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "orange",
+								"par": 72,
+								"cr": 70.5,
+								"slope": 123,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 299,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 284,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 262,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 5,
+										"index": 4
+									}
+								]
+							},
+							{
+								"color": "grün",
+								"par": 72,
+								"cr": 68.9,
+								"slope": 119,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 244,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 2,
+										"length": 275,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 3,
+										"length": 247,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 15
+									},
+									{
+										"hole": 5,
+										"length": 369,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 257,
+										"par": 4,
+										"index": 13
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 11,
+										"length": 286,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 284,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 10
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 17,
+										"length": 242,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 5,
+										"index": 4
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Platz (A) 1-9",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 36,
+								"cr": 36.6,
+								"slope": 130,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 328,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 374,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 387,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 191,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 513,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 358,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 480,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 138,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 369,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 35.7,
+								"slope": 137,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 344,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 369,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 171,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 493,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 445,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 138,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 350,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 34.6,
+								"slope": 125,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 433,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 424,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 35,
+								"cr": 33.8,
+								"slope": 119,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 416,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "orange",
+								"par": 34,
+								"cr": 32.7,
+								"slope": 113,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 299,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 284,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "grün",
+								"par": 34,
+								"cr": 31.8,
+								"slope": 110,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 244,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 275,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 247,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 369,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 257,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 3
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 39.1,
+								"slope": 137,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 344,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 369,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 171,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 493,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 445,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 138,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 350,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 37.4,
+								"slope": 128,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 312,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 433,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 337,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 424,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 36,
+								"cr": 36.6,
+								"slope": 128,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 323,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 324,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 140,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 416,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 121,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 306,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "orange",
+								"par": 36,
+								"cr": 35.3,
+								"slope": 121,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 262,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 299,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 284,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 401,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 295,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 3
+									}
+								]
+							},
+							{
+								"color": "grün",
+								"par": 36,
+								"cr": 34.4,
+								"slope": 118,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 244,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 275,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 3,
+										"length": 247,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 113,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 5,
+										"length": 369,
+										"par": 5,
+										"index": 1
+									},
+									{
+										"hole": 6,
+										"length": 257,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 376,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 8,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 270,
+										"par": 4,
+										"index": 3
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Platz (B) 10-18",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 36,
+								"cr": 36.5,
+								"slope": 128,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 463,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 412,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 147,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 408,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 316,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 367,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 107,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 372,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 471,
+										"par": 5,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 35.2,
+								"slope": 125,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 438,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 147,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 316,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 348,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 107,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 328,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 34.4,
+								"slope": 120,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 35,
+								"cr": 33.7,
+								"slope": 120,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 391,
+										"par": 4,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "orange",
+								"par": 34,
+								"cr": 32.5,
+								"slope": 116,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 262,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 4,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "grün",
+								"par": 34,
+								"cr": 31.9,
+								"slope": 114,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 286,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 284,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 242,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 4,
+										"index": 2
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 38.2,
+								"slope": 132,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 438,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 147,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 316,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 348,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 107,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 328,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 37.1,
+								"slope": 134,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 351,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 368,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 425,
+										"par": 5,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 36,
+								"cr": 36.6,
+								"slope": 128,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 415,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 132,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 299,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 298,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 102,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 305,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 391,
+										"par": 5,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "orange",
+								"par": 36,
+								"cr": 35.2,
+								"slope": 125,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 321,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 332,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 262,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 5,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "grün",
+								"par": 36,
+								"cr": 34.5,
+								"slope": 121,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 365,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 11,
+										"length": 286,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 123,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 284,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 14,
+										"length": 270,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 15,
+										"length": 256,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 16,
+										"length": 97,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 17,
+										"length": 242,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 18,
+										"length": 357,
+										"par": 5,
+										"index": 2
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Golfclub Isernhagen e. V.",
+		"shortname": "Isernhagen, GC",
+		"clubnumber": 3318,
+		"courses": []
+	},
+	{
+		"name": "Golfpark Hainhaus GmbH",
+		"shortname": "Hainhaus, GP",
+		"clubnumber": 3344,
+		"courses": []
+	},
+	{
+		"name": "Golfclub Taunus Weilrod e. V.",
+		"shortname": "Weilrod, GC Taunus",
+		"clubnumber": 6618,
+		"courses": [
+			{
+				"name": "Platz 1-18",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 72,
+								"cr": 73.3,
+								"slope": 132,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 359,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 2,
+										"length": 186,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 3,
+										"length": 427,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 4,
+										"length": 491,
+										"par": 5,
+										"index": 13
+									},
+									{
+										"hole": 5,
+										"length": 178,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 477,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 129,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 8,
+										"length": 409,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 458,
+										"par": 5,
+										"index": 15
+									},
+									{
+										"hole": 10,
+										"length": 278,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 11,
+										"length": 355,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 280,
+										"par": 4,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 229,
+										"par": 4,
+										"index": 18
+									},
+									{
+										"hole": 14,
+										"length": 421,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 15,
+										"length": 411,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 16,
+										"length": 166,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 303,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 18,
+										"length": 384,
+										"par": 4,
+										"index": 10
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 72,
+								"cr": 71.1,
+								"slope": 129,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 346,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 2,
+										"length": 177,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 3,
+										"length": 395,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 4,
+										"length": 424,
+										"par": 5,
+										"index": 13
+									},
+									{
+										"hole": 5,
+										"length": 167,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 422,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 121,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 8,
+										"length": 383,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 430,
+										"par": 5,
+										"index": 15
+									},
+									{
+										"hole": 10,
+										"length": 270,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 11,
+										"length": 310,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 252,
+										"par": 4,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 211,
+										"par": 4,
+										"index": 18
+									},
+									{
+										"hole": 14,
+										"length": 407,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 15,
+										"length": 403,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 16,
+										"length": 154,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 291,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 18,
+										"length": 326,
+										"par": 4,
+										"index": 10
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 72,
+								"cr": 69.9,
+								"slope": 124,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 335,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 2,
+										"length": 177,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 3,
+										"length": 380,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 4,
+										"length": 424,
+										"par": 5,
+										"index": 13
+									},
+									{
+										"hole": 5,
+										"length": 151,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 422,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 121,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 8,
+										"length": 337,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 397,
+										"par": 5,
+										"index": 15
+									},
+									{
+										"hole": 10,
+										"length": 263,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 11,
+										"length": 294,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 252,
+										"par": 4,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 211,
+										"par": 4,
+										"index": 18
+									},
+									{
+										"hole": 14,
+										"length": 370,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 15,
+										"length": 360,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 16,
+										"length": 144,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 274,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 18,
+										"length": 326,
+										"par": 4,
+										"index": 10
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "blau",
+								"par": 72,
+								"cr": 74.8,
+								"slope": 137,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 335,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 2,
+										"length": 177,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 3,
+										"length": 380,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 4,
+										"length": 424,
+										"par": 5,
+										"index": 13
+									},
+									{
+										"hole": 5,
+										"length": 151,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 422,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 121,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 8,
+										"length": 337,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 397,
+										"par": 5,
+										"index": 15
+									},
+									{
+										"hole": 10,
+										"length": 263,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 11,
+										"length": 294,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 252,
+										"par": 4,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 211,
+										"par": 4,
+										"index": 18
+									},
+									{
+										"hole": 14,
+										"length": 370,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 15,
+										"length": 360,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 16,
+										"length": 144,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 274,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 18,
+										"length": 326,
+										"par": 4,
+										"index": 10
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 72,
+								"cr": 72.3,
+								"slope": 130,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 305,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 2,
+										"length": 168,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 3,
+										"length": 350,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 4,
+										"length": 373,
+										"par": 5,
+										"index": 13
+									},
+									{
+										"hole": 5,
+										"length": 143,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 380,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 151,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 8,
+										"length": 311,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 397,
+										"par": 5,
+										"index": 15
+									},
+									{
+										"hole": 10,
+										"length": 258,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 11,
+										"length": 261,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 12,
+										"length": 230,
+										"par": 4,
+										"index": 16
+									},
+									{
+										"hole": 13,
+										"length": 185,
+										"par": 4,
+										"index": 18
+									},
+									{
+										"hole": 14,
+										"length": 352,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 15,
+										"length": 354,
+										"par": 5,
+										"index": 12
+									},
+									{
+										"hole": 16,
+										"length": 134,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 274,
+										"par": 4,
+										"index": 14
+									},
+									{
+										"hole": 18,
+										"length": 249,
+										"par": 4,
+										"index": 10
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Platz 1-9",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 36,
+								"cr": 36.9,
+								"slope": 137,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 359,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 2,
+										"length": 186,
+										"par": 3,
+										"index": 5
+									},
+									{
+										"hole": 3,
+										"length": 427,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 4,
+										"length": 491,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 5,
+										"length": 178,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 6,
+										"length": 477,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 7,
+										"length": 129,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 8,
+										"length": 409,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 458,
+										"par": 5,
+										"index": 8
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 35.9,
+								"slope": 130,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 346,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 2,
+										"length": 177,
+										"par": 3,
+										"index": 5
+									},
+									{
+										"hole": 3,
+										"length": 395,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 4,
+										"length": 424,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 5,
+										"length": 167,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 6,
+										"length": 422,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 7,
+										"length": 121,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 8,
+										"length": 383,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 430,
+										"par": 5,
+										"index": 8
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 35.3,
+								"slope": 126,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 335,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 2,
+										"length": 177,
+										"par": 3,
+										"index": 5
+									},
+									{
+										"hole": 3,
+										"length": 380,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 4,
+										"length": 424,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 5,
+										"length": 151,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 6,
+										"length": 422,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 7,
+										"length": 121,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 8,
+										"length": 337,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 397,
+										"par": 5,
+										"index": 8
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 38,
+								"slope": 136,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 335,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 2,
+										"length": 177,
+										"par": 3,
+										"index": 5
+									},
+									{
+										"hole": 3,
+										"length": 380,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 4,
+										"length": 424,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 5,
+										"length": 151,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 6,
+										"length": 422,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 7,
+										"length": 121,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 8,
+										"length": 337,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 397,
+										"par": 5,
+										"index": 8
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 36,
+								"cr": 36.6,
+								"slope": 131,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 305,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 2,
+										"length": 168,
+										"par": 3,
+										"index": 5
+									},
+									{
+										"hole": 3,
+										"length": 350,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 4,
+										"length": 373,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 5,
+										"length": 143,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 6,
+										"length": 380,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 7,
+										"length": 151,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 8,
+										"length": 311,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 9,
+										"length": 397,
+										"par": 5,
+										"index": 8
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Platz 10-18",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 36,
+								"cr": 36.4,
+								"slope": 129,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 278,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 11,
+										"length": 355,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 280,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 229,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 14,
+										"length": 421,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 15,
+										"length": 411,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 166,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 17,
+										"length": 303,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 18,
+										"length": 384,
+										"par": 4,
+										"index": 5
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 35.2,
+								"slope": 128,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 270,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 11,
+										"length": 310,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 252,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 211,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 14,
+										"length": 407,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 15,
+										"length": 403,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 154,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 17,
+										"length": 291,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 18,
+										"length": 326,
+										"par": 4,
+										"index": 5
+									}
+								]
+							},
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 34.6,
+								"slope": 121,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 263,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 11,
+										"length": 294,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 252,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 211,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 14,
+										"length": 370,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 15,
+										"length": 360,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 144,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 17,
+										"length": 274,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 18,
+										"length": 326,
+										"par": 4,
+										"index": 5
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 36.8,
+								"slope": 139,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 263,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 11,
+										"length": 294,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 252,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 211,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 14,
+										"length": 370,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 15,
+										"length": 360,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 144,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 17,
+										"length": 274,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 18,
+										"length": 326,
+										"par": 4,
+										"index": 5
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 36,
+								"cr": 35.7,
+								"slope": 129,
+								"holes": [
+									{
+										"hole": 10,
+										"length": 258,
+										"par": 4,
+										"index": 2
+									},
+									{
+										"hole": 11,
+										"length": 261,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 12,
+										"length": 230,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 13,
+										"length": 185,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 14,
+										"length": 352,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 15,
+										"length": 354,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 134,
+										"par": 3,
+										"index": 4
+									},
+									{
+										"hole": 17,
+										"length": 274,
+										"par": 4,
+										"index": 7
+									},
+									{
+										"hole": 18,
+										"length": 249,
+										"par": 4,
+										"index": 5
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Golfclub Bad Liebenzell e. V.",
+		"shortname": "Liebenzell, GC Bad",
+		"clubnumber": 7706,
+		"courses": []
+	}
+];
