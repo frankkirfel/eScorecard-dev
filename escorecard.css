@@ -58,6 +58,10 @@ th.e8d_field, td.e8d_field {
 				1px 1px 2px #808080;
 }
 
+th.e8d_field {
+	padding: 0.5em;
+}
+
 th[id^='e8d_th_r'] {
 	white-space: nowrap;
 	font-weight: bold;
