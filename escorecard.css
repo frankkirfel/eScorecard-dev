@@ -68,7 +68,7 @@ th[id^='e8d_th_r'] {
 	text-align: left;
 	vertical-align: middle;
 	color: #fff;
-	background-color: #6b6b6b;
+	background-color: #a0a0a0;
 	border: 1px solid;
 	border-spacing: 0px;
 	border-color: #497d8a;
@@ -96,7 +96,7 @@ td.e8d_fieldAccounted {
 td.e8d_fieldDisabled {
 	text-align: center;
 	vertical-align: middle;
-	background-color:#cdcdcd;
+	background-color:#dedede;
 	border: 1px solid;
 	border-spacing: 0px;
 	border-color: #6b9fac;
